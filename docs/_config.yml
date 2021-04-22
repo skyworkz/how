@@ -19,13 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Skyworkz
-email: your-email@example.com
+email: info@skyworkz.nl
 description: >- # this means to ignore newlines until "baseurl:"
   How it workz.
 baseurl: "/how" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+linkedin_username: skyworkz
 markdown: kramdown
 
 # Build settings
